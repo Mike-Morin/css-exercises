@@ -1,0 +1,23 @@
+/* Odd lines are pink */
+.odd {
+    background-color: pink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+/* Second line */
+#secondLine {
+    color: blue;
+    font-size: 36px;
+}
+
+/* Third line */
+.odd.cooler {
+    font-size: 24px;
+}
+
+/* Fourth line */
+#fourthLine {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
