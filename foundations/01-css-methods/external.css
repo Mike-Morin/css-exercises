@@ -1,0 +1,10 @@
+/* Stylesheet for external method */
+
+div {
+    background-color: red;
+    color: white;
+    font-family: sans-serif;
+    font-size:32px;
+    font-weight:bold;
+    text-align: center;
+}
